@@ -1,0 +1,36 @@
+{
+  "id": "choom-trade",
+  "title": "Choom Trade",
+  "description": "A safe player-to-player inventory transfer UI for Cyberpunk RED.",
+  "version": "1.0.3",
+  "authors": [
+    {
+      "name": "Lt Atlas"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "cyberpunk-red-core",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.92.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/choom-trade.mjs"
+  ],
+  "styles": [
+    "styles/choom-trade.css"
+  ],
+  "socket": true,
+  "manifest": "",
+  "download": ""
+}

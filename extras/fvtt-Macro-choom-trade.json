@@ -1,0 +1,11 @@
+{
+  "name": "Choom Trade",
+  "type": "script",
+  "scope": "global",
+  "command": "return game.choomTrade.open(typeof args === \"undefined\" ? null : args);",
+  "img": "modules/choom-trade/assets/choom-trade.webp",
+  "ownership": {
+    "default": 2
+  },
+  "flags": {}
+}
