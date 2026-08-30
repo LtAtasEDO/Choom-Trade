@@ -2,6 +2,7 @@
   "id": "choom-trade",
   "title": "Choom Trade",
   "description": "A safe player-to-player inventory transfer UI for Cyberpunk RED.",
+  "url": "https://github.com/LtAtasEDO/Choom-Trade",
   "version": "1.0.3",
   "authors": [
     {
@@ -31,6 +32,7 @@
     "styles/choom-trade.css"
   ],
   "socket": true,
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/LtAtasEDO/Choom-Trade/releases/latest/download/module.json",
+  "download": "https://github.com/LtAtasEDO/Choom-Trade/releases/download/1.0.3/module.zip"
 }
+
