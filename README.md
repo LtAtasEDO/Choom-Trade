@@ -1,4 +1,4 @@
-# Choom-Trade v1.0.3
+# Choom-Trade v1.0.4
 A safe player-to-player inventory transfer UI for Cyberpunk RED.
 
 A focused player-to-player inventory transfer module for Foundry VTT 12 and the Cyberpunk RED system.
