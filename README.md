@@ -20,7 +20,7 @@ Module creation assisted by AI.
 
 The active GM automatically creates a player-visible **Choom Trade** script Macro. The same interface is also available from the **Trade** button in the header of an owned character sheet.
 
-Version 1.0.3 bundles a dedicated Choom Trade handshake icon for the generated world Macro and keeps all eight inventory category buttons on one line at the standard dialog width. Armor or clothing whose CPR equipped state is **Equipped** remains protected.
+Version 1.0.4 is a documentation-only hot patch that records the provenance and licensing of both handshake icons used by Choom Trade. Transfer behavior is unchanged from v1.0.3. Armor or clothing whose CPR equipped state is **Equipped** remains protected.
 
 Public helper:
 
@@ -67,3 +67,11 @@ Weapons with installed upgrades are moved as one complete bundle. Stackable Gear
 - `styles/choom-trade.css` — Cyberpunk yellow/cyan interface and chat styling
 - `assets/choom-trade.webp` — bundled handshake icon for the helper Macro
 - `extras/fvtt-Macro-choom-trade.json` — optional manual Macro import
+- `THIRD_PARTY_NOTICES.md` — icon provenance and licensing acknowledgements
+
+## Artwork and icon acknowledgements
+
+- **Interface handshake:** Choom Trade references the Font Awesome Free `fa-handshake` glyph through the icon font supplied by Foundry Virtual Tabletop at runtime. Font Awesome Free is created by Fonticons, Inc. and is distributed under its [Free License](https://fontawesome.com/license/free). The module does not bundle or redistribute the Font Awesome font files.
+- **Macro handshake artwork:** `assets/choom-trade.webp` is a modified and recolored raster derivative of [Handshake SVG Vector #352785](https://www.svgrepo.com/svg/352785/handshake) from SVG Repo. The source asset is marked [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Lt Atlas adapted the artwork to match Choom Trade's Cyberpunk RED Foundry presentation.
+
+See `THIRD_PARTY_NOTICES.md` for the complete acknowledgement.
