@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.4 — 2026-09-01
+
+- Added explicit attribution and licensing acknowledgement for the Font Awesome Free `fa-handshake` interface glyph supplied by Foundry VTT at runtime.
+- Documented `assets/choom-trade.webp` as Lt Atlas's modified and recolored derivative of SVG Repo Handshake asset #352785, released under CC0 1.0 Universal.
+- Added `THIRD_PARTY_NOTICES.md` and a matching README section.
+- No interface, inventory-filtering, or transfer-transaction behavior changed.
+
 ## 1.0.3 — 2026-08-13
 
 - Replaced the generated helper Macro's leather bag icon with the bundled `choom-trade.webp` handshake artwork.
